@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor's of Arts: Videogaming and Esports: University of North Carolina Greensboro: 2027 (Expected)
+* Bachelor's Of Science: Information Science: University of North Carolina Greensboro: 2027 (Expected)
+* Associate of Science: Wake Technical Community College: 2023
+
 
 Work experience
 ======
