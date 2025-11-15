@@ -1,15 +1,11 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "Larger Webpage Icon",
 	"icons": [
 		{
-			"src": "/images/favicon-192x192.png",
-			"sizes": "192x192",
+			"src": "/images/Larger Webpage Icon.png",
+			"sizes": "144x144",
 			"type": "image/png"
 		},
-		{
-			"src": "/images/favicon-512x512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		}
+		
 	]
 }
