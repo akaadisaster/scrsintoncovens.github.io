@@ -25,7 +25,8 @@ Work experience
 * 2016 - 2021 Johnston County Day Camp
   Program Aide
 
-Skills:
+Skills
+======
 * Interpersonal Communication
 * Microsoft Office
 * Organizational Skills
